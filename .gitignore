@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Backend (Maven)
+Smart_Home_back/target/
+
+# Frontend (Angular)
+smartHome-front/node_modules/
+smartHome-front/dist/
+smartHome-front/.angular/
+
+# OS
+.DS_Store
+Thumbs.db
